@@ -29,7 +29,7 @@ Main findings:
 
 Main reason to include the findings included in Explanatory analysis:
 
-The idea of fabricating a story of a Pokemon Trainer(Josh!) who wanted to increase his chances with a sole-Pokemon team against others seemed fascinating to me.
+The idea of fabricating a story of a Pokemon Trainer(Josh!) who wanted to increase his chances with a sole-Pokemon team against other trainers seemed fascinating to me.
 
 No feedback was obtained for the Explanatory Analysis part of the project by the time of submission.
 
