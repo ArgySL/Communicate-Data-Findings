@@ -37,5 +37,5 @@ Sources:
 
 - Dataset Source: https://www.kaggle.com/abcsds/pokemon
 - "How to Choose bin Sizes": https://www.statisticshowto.com/choose-bin-sizes-statistics/
+- Bulbapedia :https://bulbapedia.bulbagarden.net/wiki/Main_Page
 - Library documentation where applicable
-- Bulbapedia, for confirming certain data :https://bulbapedia.bulbagarden.net/wiki/Main_Page
